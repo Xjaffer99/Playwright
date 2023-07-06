@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 test('Hit the url', async ({ page }) => {
-  await page.goto('https://www.thecrazycoupons.com/us/');
+  await page.goto('https://www.thecrazycouponscc.com/us/');
   await page.close();
   
 });
